@@ -1,9 +1,5 @@
 [flake8]
-<<<<<<< HEAD
-exclude =
-=======
 exclude = 
->>>>>>> ab4e03bd64798408193efc8dc6f6f71e8196caf6
     migrations,
     __pycache__,
     manage.py,
